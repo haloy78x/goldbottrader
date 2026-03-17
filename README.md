@@ -80,8 +80,6 @@ MetaTrader 5 (MT5) is the trading platform that the bot uses to get market price
 3. Run the installer and follow the prompts (just click "Next" through everything)
 4. Once installed, **open MetaTrader 5** — you should see the application window
 
-> **Note:** MetaTrader 5 only runs on **Windows**. If you're on Mac or Linux, you'll need to use a Windows virtual machine or Wine.
-
 </details>
 
 ---
